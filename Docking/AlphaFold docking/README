@@ -1,1 +1,23 @@
+This folder contains .pdb files of an AlphaFold model of the R. solanacearum tyrosinase docked with a selection of substrates.
+Docking of these substrates with a truncated AlphaFold model which contains only the catalytic domain of R. solanacearum tyrosinase is also found here.
+All docking structures were generated with the CCDC GOLD software.
 
+The naming convention for files is as follows:
+Model name + substrate abbreviation . pdb
+
+Model names:
+RsTyrAF = AlphaFold model of the R. solanacearum tyrosinase 
+RsTyrAF_cat = AlphaFold model of the R. solanacearum tyrosinase which is truncated to contain only the tyrosinase catalytic domain.
+
+Substrate abbreviations:
+Tyrosine = N/A
+Tyrosol = N/A
+Resveratrol = N/A
+Phenol = N/A
+Tyramine = N/A
+Octopamine = N/A
+2-Fluorophenol = 2-FP
+3-Fluorophenol = 3-FP
+4-hydroxybenzoic acid = 4-HBA
+4-hydroxymandelic acid = 4-HMA
+4-hydroxyphenylacetic acid = 4-HPAA
