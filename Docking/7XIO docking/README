@@ -1,1 +1,3 @@
-
+This folder contains .pdb files of the crystal structure of R. solanacearum 7XIO.pdb docked with tyrosinase and tyrosol. 
+Docking of these substrates with a truncated crystal structure 7XIO_cat.pdb which contains only the catalytic domain of R. solanacearum tyrosinase is also found here.
+All docking structures were generated with the CCDC GOLD software.
