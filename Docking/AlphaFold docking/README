@@ -3,11 +3,11 @@ Docking of these substrates with a truncated AlphaFold model which contains only
 All docking structures were generated with the CCDC GOLD software.
 
 The naming convention for files is as follows:
-Model name + substrate abbreviation . pdb
+Substrate abbreviation + Model type . pdb
 
 Model names:
-RsTyrAF = AlphaFold model of the R. solanacearum tyrosinase 
-RsTyrAF_cat = AlphaFold model of the R. solanacearum tyrosinase which is truncated to contain only the tyrosinase catalytic domain.
+AF = AlphaFold model of the R. solanacearum tyrosinase 
+AF_catalytic = AlphaFold model of the R. solanacearum tyrosinase which is truncated to contain only the tyrosinase catalytic domain.
 
 Substrate abbreviations:
 Tyrosine = N/A
