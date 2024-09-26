@@ -1,1 +1,2 @@
-This folder contains .pml (PyMol script files) detailing salt-bridge formation in R. pseudosolanacearum tyrosinsase (RsTyr) and variants RV145, RVC10 and RV145-C10. It also contains salt bridge analysis of B. thailandensis tyrosinase (BtTyr) and M. domestica tyrosinase MdPPO1.
+This folder contains .pml (PyMol script files) detailing salt-bridge formation in R. pseudosolanacearum tyrosinsase (RsTyr) and variants RV145, RVC10 and RV145-C10. 
+It also contains salt bridge analysis of B. thailandensis tyrosinase BtTyr (5zrd) and M. domestica tyrosinase MdPPO1 (6els).
